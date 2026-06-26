@@ -1,6 +1,6 @@
 <!-- 헤더 (Capsule Render) - 가로를 100%로 꽉 채워 균형을 맞춥니다 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=990000&height=220&section=header&text=HumanRhoid&animation=fadeIn&fontColor=ffffff&fontSize=100" width="100%" />  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=f5f5f5&center=true&vCenter=true&width=500&height=100&lines=HumanRhoid;Korea+DEV;Backend+Engineer;MLOps;" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=990000&height=220&section=header&text=HumanRhoid&animation=fadeIn&fontColor=ffffff&fontSize=100" width="100%" />  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=f5f5f5&center=true&vCenter=true&width=500&height=100&lines=HumanRhoid;Backend+Engineer;MLOps;" alt="Typing SVG" />
 </p>
 <br>
 
