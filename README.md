@@ -84,9 +84,11 @@ ML / Data
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
 ## Comming soon...
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=990000&height=100&section=footer" width="100%" />
