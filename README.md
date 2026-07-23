@@ -9,21 +9,9 @@
 
 <br>
 
-## About
-
-컴퓨터공학과 학부생. 한국어 립리딩(VSR) 시스템 개발 프로젝트에서 PM 겸 데이터/전처리 담당으로 활동 중이며, 백엔드는 FastAPI 기반으로 직접 설계·구축한다. 기획부터 배포까지 전체 파이프라인을 직접 짜는 걸 선호함.
 
 <br>
 
-## Projects
-
-음절 단위 CTC+Attention 기반 한국어 립리딩 모델 개발. PM/데이터 담당.
-- **Pipeline**: MediaPipe 입술 crop → npy 전처리 → 시퀀스 동기화
-- **Model**: 3D-CNN + ResNet-18 프론트엔드 → Conformer 인코더 → Transformer 디코더
-- **Infra**: GitHub(코드) + Hugging Face Hub(가중치) 분리, Colab Pro+ 학습, FastAPI 서빙
-- **Data**: AI Hub 립리딩 한국어 데이터셋 (정면 각도 샘플링)
-
-FastAPI 기반 백엔드 개발 참여. API 설계 및 계약 정의.
 
 <br>
 
