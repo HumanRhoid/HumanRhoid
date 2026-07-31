@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=f5f5f5&center=true&vCenter=true&width=600&height=60&lines=ML+Engineer+%2F+Backend;Visual+Speech+Recognition;FastAPI+%2B+PyTorch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=f5f5f5&center=true&vCenter=true&width=600&height=60&lines=ML+Engineer+%2F+Backend&alt="Typing SVG" />
 </p>
 
 <br>
