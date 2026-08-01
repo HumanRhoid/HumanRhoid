@@ -64,14 +64,15 @@ ML / Data
 
 <br>
 
-## Contact
-
+## If you want to Contact...
 <!-- 실제 링크로 교체 필요: velog, LinkedIn, 이메일 등 -->
 <p align="center">
   <a href="mailto:ssanta011205@gamil.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
+## See my BLOG!
 
 <p align="center">
   <a href="https://velog.io/@humanrhoid/posts" target="_blank" rel="noopener noreferrer">
