@@ -68,15 +68,16 @@ ML / Data
 
 <!-- 실제 링크로 교체 필요: velog, LinkedIn, 이메일 등 -->
 <p align="center">
-  <a href="mailto:ssanta011205@gamil.com">
+  <a href="mailto:ssanta011205@gamil.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
-## Comming soon...
 <p align="center">
-  <a href="https://velog.io/@humanrhoid/posts">
+  <a href="https://velog.io/@humanrhoid/posts" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
   </a>
 </p>
+
+## Comming soon...
 
