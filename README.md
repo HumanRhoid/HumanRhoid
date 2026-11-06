@@ -53,16 +53,9 @@ ML / Data
 
 ## Stats
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/HumanRhoid?style=for-the-badge&logo=github&color=990000&labelColor=1a1a1a" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/HumanRhoid?style=for-the-badge&logo=github&color=990000&labelColor=1a1a1a" alt="Stars"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumanRhoid&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-</p>
-
-<br>
+<a href="https://www.credly.com/badges/f8802f5c-6f5c-48cc-8e52-7baa5230b744/public_url">
+  <img src="./badge.png" width="150" alt="Credly Badge">
+</a>
 
 ## If you want to Contact...
 <!-- 실제 링크로 교체 필요: velog, LinkedIn, 이메일 등 -->
