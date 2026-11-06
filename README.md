@@ -51,10 +51,10 @@ ML / Data
 
 <br>
 
-## Stats
+## Activity
 
 <a href="https://www.credly.com/badges/f8802f5c-6f5c-48cc-8e52-7baa5230b744/public_url">
-  <img src="./badge.png" width="150" alt="Credly Badge">
+  <img src="./aws-sbg-core-team-member-badge.png" width="150" alt="Credly Badge">
 </a>
 
 ## If you want to Contact...
