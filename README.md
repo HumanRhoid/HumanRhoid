@@ -28,9 +28,18 @@
 | **Infra / Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **Platforms** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) |
 
+### AI Models & Inference
+
+| 구분 | 모델·도구 | 사용 경험 |
+| :--- | :--- | :--- |
+| **Models** | ![Qwen](https://img.shields.io/badge/Qwen-615EFF?style=for-the-badge) | 의료 텍스트 관련 로컬 모델 실험 |
+| | ![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white) | 온디바이스 캠퍼스 검색 프로젝트 |
+| **Local Inference** | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) | 로컬 LLM 실행·프로그램 연동 |
+| **Serving · 학습 중** | ![vLLM](https://img.shields.io/badge/vLLM-3B82F6?style=for-the-badge) | LLM 추론·서빙 방식 학습 |
+
 ### Currently Learning
 
-`Transformer / LoRA` · `vLLM` · `Backend.AI`
+`Transformer / LoRA` · `Backend.AI`
 
 <br>
 
